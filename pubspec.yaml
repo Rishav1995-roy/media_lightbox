@@ -1,0 +1,36 @@
+name: media_lightbox
+description: "Full-screen image gallery for Flutter: pinch, double-tap and mouse-wheel zoom, swipe-to-dismiss, Hero, zoom-aware paging and custom media pages."
+version: 0.0.1
+homepage: https://github.com/Rishav1995-roy/media_lightbox
+repository: https://github.com/Rishav1995-roy/media_lightbox
+issue_tracker: https://github.com/Rishav1995-roy/media_lightbox/issues
+
+topics:
+  - gallery
+  - image-viewer
+  - zoom
+  - lightbox
+  - hero
+
+screenshots:
+  - description: Demo - hero open, double-tap zoom, swipe between pages and swipe down to dismiss.
+    path: doc/demo.gif
+  - description: Gallery in dark theme with captions and thumbnail strip.
+    path: doc/screenshot_gallery.png
+  - description: Double-tap zoom into the tapped point.
+    path: doc/screenshot_zoomed.png
+  - description: Custom theme (sepia) with a thumbnail strip.
+    path: doc/screenshot_theme.png
+
+environment:
+  sdk: ^3.6.0
+  flutter: ">=3.27.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ">=5.0.0 <7.0.0"
