@@ -1,6 +1,6 @@
 name: media_lightbox
 description: "Full-screen image gallery for Flutter: pinch, double-tap and mouse-wheel zoom, swipe-to-dismiss, Hero, zoom-aware paging and custom media pages."
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/Rishav1995-roy/media_lightbox
 repository: https://github.com/Rishav1995-roy/media_lightbox
 issue_tracker: https://github.com/Rishav1995-roy/media_lightbox/issues
