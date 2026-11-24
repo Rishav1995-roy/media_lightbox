@@ -35,6 +35,7 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   media_lightbox:
     path: ../
+    version: 0.0.2
 
 dev_dependencies:
   flutter_test:
